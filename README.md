@@ -3,5 +3,7 @@
 Check out what my list can do!
 <ul>
     <li>It can take new item</li>
-    <li>clicking the [x] deletes the item, in fact clicking anywhere on the item deletes it</li>
+    <li>clicking the [x] deletes the item, in fact, clicking anywhere on the item deletes it</li>
 </ul>
+<h2> Check it out!</h2>
+<img src="./appdisplay.png" >
